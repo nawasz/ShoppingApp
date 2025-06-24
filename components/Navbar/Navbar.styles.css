@@ -1,0 +1,48 @@
+.grey-strip-container{
+   display:grid;
+   grid-template-columns: repeat(3,auto);
+   padding: 8px 274px;
+   background-color: black;
+}
+
+.title{
+    font-weight: 800;
+    letter-spacing: 1px;
+    width:107px;
+    Height:44px;
+    font-size: 36px;
+    vertical-align:middle;
+}
+.icons-tab{
+    display: flex;
+    gap: 20px;
+}
+.nav-container{
+    width:100%;
+}
+.Header-container{
+    width:100%;
+    padding:20px
+}
+.header-level-one{
+    margin:2px auto;
+    width:90%;
+    padding:2px;
+    display: flex;
+    justify-content: space-between
+    
+}
+.header-level-two{
+    width:50%;
+    margin:0px auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.nav-container{
+    width: 100%;
+    
+    top:0;
+
+} 
