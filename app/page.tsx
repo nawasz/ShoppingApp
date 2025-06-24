@@ -1,5 +1,5 @@
 //import Image from "next/image";
-import styles from "./page.module.css";
+// import styles from "./page.module.css";
 import ProductGrid from "../components/Product/ProductGrid/ProductGrid";
 import { Product } from "@/types/product";
 
